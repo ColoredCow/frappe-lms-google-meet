@@ -2627,17 +2627,10 @@ dlv@^1.1.3:
   resolved "https://registry.yarnpkg.com/dlv/-/dlv-1.1.3.tgz#5c198a8a11453596e751494d49874bc7732f2e79"
   integrity sha512-+HlytyjlPKnIG8XuRG8WvmBP8xs8P71y+SKKS6ZXWoEgLuePxtDoUEiH7WkdePWrQ5JBpE6aoVqfZfJUQkjXwA==
 
-dompurify@3.2.6:
-  version "3.2.6"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.2.6.tgz#ca040a6ad2b88e2a92dc45f38c79f84a714a1cad"
-  integrity sha512-/2GogDQlohXPZe6D6NOgQvXLPSYBqIWMnZ8zzOhn09REE4eyAzb+Hed3jhoM9OkuaJ8P6ZGTTVWQKAi8ieIzfQ==
-  optionalDependencies:
-    "@types/trusted-types" "^2.0.7"
-
-dompurify@^3.2.6:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.3.1.tgz#c7e1ddebfe3301eacd6c0c12a4af284936dbbb86"
-  integrity sha512-qkdCKzLNtrgPFP1Vo+98FRzJnBRGe4ffyCea9IwHB1fyxPOeNTHpLKYGd4Uk9xvNoH0ZoOjwZxNptyMwqrId1Q==
+dompurify@3.3.2, dompurify@^3.2.6:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.3.2.tgz#58c515d0f8508b8749452a028aa589ad80b36325"
+  integrity sha512-6obghkliLdmKa56xdbLOpUZ43pAR6xFy1uOrxBaIDjT+yaRuuybLjGS9eVBoSR/UPU5fq3OXClEHLJNGvbxKpQ==
   optionalDependencies:
     "@types/trusted-types" "^2.0.7"
 
@@ -4324,7 +4317,7 @@ regjsparser@^0.13.0:
   dependencies:
     jsesc "~3.1.0"
 
-reka-ui@^2.5.0, reka-ui@^2.8.0:
+reka-ui@^2.5.0:
   version "2.8.0"
   resolved "https://registry.yarnpkg.com/reka-ui/-/reka-ui-2.8.0.tgz#612023ad40c5c10999aef304f2b828cdd08da6a8"
   integrity sha512-N4JOyIrmDE7w2i06WytqcV2QICubtS2PsK5Uo8FIMAgmO13KhUAgAByP26cXjjm2oF/w7rTyRs8YaqtvaBT+SA==
